@@ -6,7 +6,7 @@ A step-by-step walkthrough for deploying a first example agent network on
 MuleSoft's Anypoint Platform.
 
 Read it as a website at
-[tbolis-at-mulesoft.github.io/mule-broker-v2-quickstart](https://tbolis-at-mulesoft.github.io/mule-broker-v2-quickstart/).
+[tommasobolis.github.io/mule-broker-v2-quickstart](https://tommasobolis.github.io/mule-broker-v2-quickstart/).
 
 ## Guides
 

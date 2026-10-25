@@ -2,7 +2,7 @@ title: MuleSoft Agent Network Quickstart
 description: >-
   A step-by-step walkthrough for deploying a first example agent network on
   MuleSoft's Anypoint Platform.
-url: https://tbolis-at-mulesoft.github.io
+url: https://tommasobolis.github.io
 baseurl: /mule-broker-v2-quickstart
 
 remote_theme: just-the-docs/just-the-docs@v0.12.0
@@ -174,7 +174,7 @@ back_to_top_text: Back to top
 
 aux_links:
   GitHub repository:
-    - https://github.com/tbolis-at-mulesoft/mule-broker-v2-quickstart
+    - https://github.com/tommasobolis/mule-broker-v2-quickstart
 aux_links_new_tab: true
 
 exclude:
